@@ -1,0 +1,4 @@
+Public class NYSIL
+  String name;
+  int antall; anus lukter godt
+  String admin;
